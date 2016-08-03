@@ -1,2 +1,2 @@
 # JavaScript-Playground
-This is my playground for test java script
+This is my playground for test JavaScript!
