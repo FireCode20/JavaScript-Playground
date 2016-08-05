@@ -1,2 +1,3 @@
 # JavaScript-Playground
 This is my playground for test JavaScript!
+Thios branch will auto push every 5 minutes or so...
